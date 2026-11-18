@@ -61,7 +61,7 @@ export const communityLinks: CommunityLink[] = [
   { href: DISCORD_URL, label: "Discord", icon: DiscordIcon },
   { href: "https://x.com/trythinkex", label: "Twitter / X", icon: XIcon },
   {
-    href: "https://github.com/ThinkEx-OSS/filerouter",
+    href: "https://github.com/urjitc/filerouter",
     label: "GitHub",
     icon: GitHubIcon,
   },

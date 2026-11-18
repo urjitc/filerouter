@@ -41,7 +41,7 @@ const footerColumns = [
       { label: "CLI", href: "https://docs.filerouter.dev/cli" },
       {
         label: "GitHub",
-        href: "https://github.com/ThinkEx-OSS/filerouter",
+        href: "https://github.com/urjitc/filerouter",
       },
     ],
   },
@@ -61,7 +61,7 @@ const footerColumns = [
       { label: "Cookie Policy", to: "/cookies" },
       {
         label: "Security",
-        href: "https://github.com/ThinkEx-OSS/filerouter/security/policy",
+        href: "https://github.com/urjitc/filerouter/security/policy",
       },
     ],
   },

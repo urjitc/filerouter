@@ -17,4 +17,4 @@ LLAMA_CLOUD_API_KEY=... npx @file_router/cli parse report.pdf --local
 ```
 
 See [filerouter.dev](https://filerouter.dev) and the
-[source repository](https://github.com/ThinkEx-OSS/filerouter).
+[source repository](https://github.com/urjitc/filerouter).

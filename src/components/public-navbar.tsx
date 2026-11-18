@@ -16,7 +16,7 @@ export function PublicNavbar() {
         className="hidden h-9 px-3 text-sm sm:inline-flex"
         variant="outline"
       >
-        <a href="https://github.com/ThinkEx-OSS/filerouter">
+        <a href="https://github.com/urjitc/filerouter">
           <GitHubIcon className="size-4" />
           GitHub
         </a>

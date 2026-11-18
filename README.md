@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://www.npmjs.com/package/@file_router/sdk"><img alt="FileRouter SDK on npm" src="https://shieldcn.dev/npm/@file_router/sdk.svg?variant=secondary&size=sm"></a>
   <a href="https://docs.filerouter.dev"><img alt="FileRouter documentation" src="https://shieldcn.dev/badge/Docs-read-00bdf7.svg?variant=secondary&size=sm"></a>
-  <a href="https://github.com/ThinkEx-OSS/filerouter/stargazers"><img alt="GitHub stars" src="https://shieldcn.dev/github/stars/ThinkEx-OSS/filerouter.svg?variant=secondary&size=sm&theme=amber"></a>
+  <a href="https://github.com/urjitc/filerouter/stargazers"><img alt="GitHub stars" src="https://shieldcn.dev/github/stars/urjitc/filerouter.svg?variant=secondary&size=sm&theme=amber"></a>
   <a href="https://discord.gg/dtPnzkqCcG"><img alt="Join Discord" src="https://shieldcn.dev/badge/Discord-join-5865f2.svg?variant=secondary&size=sm&logo=discord"></a>
 </p>
 
@@ -148,7 +148,7 @@ pnpm test
 - [Security](SECURITY.md)
 - [Privacy](https://filerouter.dev/privacy)
 - [Discord](https://discord.gg/dtPnzkqCcG)
-- [GitHub](https://github.com/ThinkEx-OSS/filerouter)
+- [GitHub](https://github.com/urjitc/filerouter)
 - [X](https://x.com/trythinkex)
 - [Email](mailto:hello@thinkex.app)
 

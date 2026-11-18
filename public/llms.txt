@@ -16,7 +16,7 @@ FileRouter supports two explicit processing modes. Hosted mode sends documents t
 ## Product and source
 
 - [FileRouter website](https://filerouter.dev/): Product overview, processing modes, and supported integrations.
-- [GitHub repository](https://github.com/ThinkEx-OSS/filerouter): SDK, CLI, hosted service, and documentation source.
+- [GitHub repository](https://github.com/urjitc/filerouter): SDK, CLI, hosted service, and documentation source.
 - [Published SDK metadata](https://registry.npmjs.org/@file_router%2Fsdk): Package versions, metadata, and README from the npm registry.
 
 ## Policies

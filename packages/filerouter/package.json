@@ -11,13 +11,13 @@
   ],
   "homepage": "https://filerouter.dev",
   "bugs": {
-    "url": "https://github.com/ThinkEx-OSS/filerouter/issues"
+    "url": "https://github.com/urjitc/filerouter/issues"
   },
   "license": "MIT",
   "author": "ThinkEx Inc.",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ThinkEx-OSS/filerouter.git",
+    "url": "git+https://github.com/urjitc/filerouter.git",
     "directory": "packages/filerouter"
   },
   "files": [

@@ -100,7 +100,7 @@ No. Direct or BYOK requests go from the user's environment to the selected provi
 - Website: https://filerouter.dev/
 - Documentation index: https://docs.filerouter.dev/llms.txt
 - Complete documentation: https://docs.filerouter.dev/llms-full.txt
-- Source code: https://github.com/ThinkEx-OSS/filerouter
+- Source code: https://github.com/urjitc/filerouter
 - SDK registry metadata: https://registry.npmjs.org/@file_router%2Fsdk
 - Privacy policy: https://filerouter.dev/privacy
 - Terms of service: https://filerouter.dev/terms

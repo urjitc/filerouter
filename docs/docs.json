@@ -27,7 +27,7 @@
     "links": [
       {
         "label": "GitHub",
-        "href": "https://github.com/ThinkEx-OSS/filerouter"
+        "href": "https://github.com/urjitc/filerouter"
       },
       {
         "label": "Dashboard",
@@ -37,7 +37,7 @@
   },
   "footer": {
     "socials": {
-      "github": "https://github.com/ThinkEx-OSS/filerouter",
+      "github": "https://github.com/urjitc/filerouter",
       "discord": "https://discord.gg/dtPnzkqCcG"
     }
   },

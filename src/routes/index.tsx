@@ -225,7 +225,7 @@ const homeStructuredData = {
         width: 512,
         height: 512,
       },
-      sameAs: ["https://github.com/ThinkEx-OSS/filerouter"],
+      sameAs: ["https://github.com/urjitc/filerouter"],
     },
     {
       "@id": "https://filerouter.dev/#website",
@@ -242,7 +242,7 @@ const homeStructuredData = {
       name: "@file_router/sdk",
       description:
         "A TypeScript SDK for parsing and comparing documents across engines through FileRouter or directly with provider keys.",
-      codeRepository: "https://github.com/ThinkEx-OSS/filerouter",
+      codeRepository: "https://github.com/urjitc/filerouter",
       license: "https://opensource.org/license/mit",
       programmingLanguage: "TypeScript",
       runtimePlatform: "Node.js 22.14 or newer",

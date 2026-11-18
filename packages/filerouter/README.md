@@ -38,4 +38,4 @@ const result = await router.parse(file, {
 ```
 
 See [filerouter.dev](https://filerouter.dev) and the
-[source repository](https://github.com/ThinkEx-OSS/filerouter).
+[source repository](https://github.com/urjitc/filerouter).

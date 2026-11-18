@@ -112,7 +112,7 @@ function DashboardPage() {
                   label: "API reference",
                 },
                 {
-                  href: "https://github.com/ThinkEx-OSS/filerouter",
+                  href: "https://github.com/urjitc/filerouter",
                   icon: GitHubIcon,
                   label: "GitHub",
                 },
